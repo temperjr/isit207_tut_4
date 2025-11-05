@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isit207_tut_4/static/css/main.55d781ce.css",
+    "main.js": "/isit207_tut_4/static/js/main.76a2b582.js",
+    "static/js/453.09c5b93a.chunk.js": "/isit207_tut_4/static/js/453.09c5b93a.chunk.js",
+    "index.html": "/isit207_tut_4/index.html",
+    "main.55d781ce.css.map": "/isit207_tut_4/static/css/main.55d781ce.css.map",
+    "main.76a2b582.js.map": "/isit207_tut_4/static/js/main.76a2b582.js.map",
+    "453.09c5b93a.chunk.js.map": "/isit207_tut_4/static/js/453.09c5b93a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d781ce.css",
+    "static/js/main.76a2b582.js"
+  ]
+}
